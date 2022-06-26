@@ -1,0 +1,88 @@
+body {
+    background-image: url(../Image/baby.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background-color: rgba(240, 240, 240, 0.747);
+    padding: 5%;
+    color: black;
+    margin-top: 5vh;
+    border-radius: 20px;
+}
+
+.bottom-margin {
+    margin-bottom: 1vh;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI';
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 1vh;
+    margin-top: 5vh;
+}
+
+p {
+    font-size: 23px;
+    font-family: 'New Tegomin', serif;
+}
+
+h2 {
+    color: darkblue;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Indie Flower', cursive;
+    margin-top: 2vh;
+    color: darkblue;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+ul>li {
+    font-family: 'New Tegomin', serif;
+    list-style: square;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.sub-heading {
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+    font-weight: 500;
+}
+
+.footer {
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    margin-bottom: 0px;
+    color: white;
+    font-weight: 600;
+    font-size: 24px;
+    background-color: black;
+}
+
+.btn{
+    width: 40%;
+    font-weight: 600;
+}
+
+.btn:hover{
+    text-transform: uppercase;
+}
+
+.contact{
+    padding: 1vh 45vh 1vh 45vh;
+    margin-bottom: 5vh;
+    margin-top: 2vh;
+}
+
+.contact>div>div>ul>li{
+    list-style: none;
+}
